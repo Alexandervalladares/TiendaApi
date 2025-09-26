@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Tienda</string>
-</resources>
+
+<string name="loading_products">Cargando datos…</string>
+<string name="error_loading_products">Error al cargar los productos</string>
+<string name="no_products_available">No hay productos disponibles.</string>
+<string name="product_price">$%.2f USD</string>
+<string name="product_rating">⭐ %.1f (%d opiniones)</string>
+<string name="product_rating_value">%.1f</string>
+<string name="product_rating_count">(%1$d opiniones)</string>
+<string name="product_image_content_description">Imagen del producto</string>
+    </resources>

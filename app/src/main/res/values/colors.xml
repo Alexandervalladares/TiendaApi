@@ -2,4 +2,26 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-</resources>
+
+<color name="secondary_text">#FF757575</color>
+
+<color name="product_card_gradient_start">#FFF6F9FF</color>
+<color name="product_card_gradient_end">#FFFFFFFF</color>
+<color name="product_card_stroke">#FFD7E2FF</color>
+
+<color name="product_title_text">#FF1A2233</color>
+<color name="product_price_gradient_start">#FF5C6CFF</color>
+<color name="product_price_gradient_end">#FF9C5CFF</color>
+
+<color name="product_category_background">#1A405678</color>
+<color name="product_category_text">#FF2E3A59</color>
+
+<color name="product_rating_background">#1AFFFFFF</color>
+<color name="product_rating_icon">#FFFFD54F</color>
+<color name="product_rating_text">#FF2E3A59</color>
+<color name="product_rating_secondary">#992E3A59</color>
+
+<color name="catalog_background_start">#FFF8FBFF</color>
+<color name="catalog_background_center">#FFEFF5FF</color>
+<color name="catalog_background_end">#FFFFFFFF</color>
+    </resources>

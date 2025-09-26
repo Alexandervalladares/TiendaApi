@@ -1,7 +1,24 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Tienda" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
-    </style>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="secondary_text">#FFBDBDBD</color>
+
+    <color name="product_card_gradient_start">#FF1C2331</color>
+    <color name="product_card_gradient_end">#FF2A3142</color>
+    <color name="product_card_stroke">#FF394055</color>
+
+    <color name="product_title_text">#FFE6EEFF</color>
+    <color name="product_price_gradient_start">#FF7C4DFF</color>
+    <color name="product_price_gradient_end">#FFE57373</color>
+
+    <color name="product_category_background">#332E3A59</color>
+    <color name="product_category_text">#FFE3F2FD</color>
+
+    <color name="product_rating_background">#332E3A59</color>
+    <color name="product_rating_icon">#FFFFD54F</color>
+    <color name="product_rating_text">#FFE3F2FD</color>
+    <color name="product_rating_secondary">#B3E3F2FD</color>
+
+    <color name="catalog_background_start">#FF121825</color>
+    <color name="catalog_background_center">#FF1C2331</color>
+    <color name="catalog_background_end">#FF1F2633</color>
 </resources>
